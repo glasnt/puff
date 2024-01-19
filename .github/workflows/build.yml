@@ -6,7 +6,7 @@ name: Build README
 on:
   push:
     branches:
-    - main
+    - latest
 
 jobs:
   build:
