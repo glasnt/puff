@@ -11,7 +11,7 @@ who in turn cribbed from https://github.com/simonw/til
 root = pathlib.Path(__file__).parent.resolve()
 
 
-def created_changed_times(repo_path, ref="main"):
+def created_changed_times(repo_path, ref="latest"):
     created_changed_times = {}
     repo = git.Repo(repo_path, odbt=git.GitDB)
     commits = reversed(list(repo.iter_commits(ref)))
@@ -42,7 +42,7 @@ def build_database(repo_path):
         title = fp.readline().lstrip("#").strip()
         body = fp.read().strip()
         path = str(filepath.relative_to(root))
-        url = "https://github.com/williln/til/blob/main/{}".format(path)
+        url = "https://github.com/glasnt/puff/blob/main/{}".format(path)
         record = {
             "path": path.replace("/", "_"),
             "topic": path.split("/")[0],
