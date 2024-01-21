@@ -28,3 +28,11 @@ Like some sort of small blog. A micro blog if you will. Wonder if that concept w
 
 Did you update the permissions GitHub actions have on the repo? Check your Settings > Actions permissions > General > Workflow permissions, 
 making sure you have "read and write" permissions" selected. This allows the action to make automatic updates. 
+
+## git conflicts oh no!
+
+This will happen if you're trying to make changes to files that have already been changed elsewhere. For example, updating the README.md. 
+
+This is ok! `git pull` if you're working from the CLI before you start will set you right. 
+
+If you're not used to working in a repo that others also edit, this can happen. That actions robot will be editing README.md a bunch. You'll remember. 
