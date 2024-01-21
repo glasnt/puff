@@ -20,6 +20,11 @@ if __name__ == "__main__":
         by_topic.setdefault(row["topic"], []).append(row)
     index = ["<!-- index starts -->"]
 
+    # update stats
+    article_count = db["til"].count
+    topic_count = len(by_topic)
+    index.append(f"{article_count} articles across {topic_count} topics and counting...\n")
+
     # alphabetize the topics
     topics = list(by_topic.keys())
 
