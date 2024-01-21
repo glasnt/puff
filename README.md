@@ -7,7 +7,7 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~
 
 <!-- index starts -->
-5 articles across 4 topics and counting...
+6 articles across 5 topics and counting...
 
 ## Cloud Build
 
@@ -25,6 +25,10 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ## Docker
 
 * [Official Docker Images](https://github.com/glasnt/puff/blob/latest/docker/official_images.md) - 2024-01-22
+
+## Markdown
+
+* [Automatic links in Markdown](https://github.com/glasnt/puff/blob/latest/markdown/automatic_links.md) - 2024-01-22
 <!-- index ends -->
 
 ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~
