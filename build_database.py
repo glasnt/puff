@@ -38,7 +38,7 @@ def build_database(repo_path):
     all_times = created_changed_times(repo_path)
     
     # delete existing database, if exists. 
-    if DATABASE.exists:
+    if DATABASE.exists():
         pathlib.Path.unlink(DATABASE)
 
     # create new database 
