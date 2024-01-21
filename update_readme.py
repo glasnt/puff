@@ -7,6 +7,9 @@ root = pathlib.Path(__file__).parent.resolve()
 
 index_re = re.compile(r"<!\-\- index starts \-\->.*<!\-\- index ends \-\->", re.DOTALL)
 
+def titleify(str): 
+    return str.title().replace("_", " ")
+
 if __name__ == "__main__":
 
     # load topics
@@ -21,7 +24,7 @@ if __name__ == "__main__":
 
     # write topics to list
     for topic in topics:
-        index.append("## {}\n".format(topic))
+        index.append("## {}\n".format(titleify(topic)))
         rows = by_topic[topic]
         for row in rows:
             index.append(
