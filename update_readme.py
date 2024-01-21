@@ -9,7 +9,7 @@ index_re = re.compile(r"<!\-\- index starts \-\->.*<!\-\- index ends \-\->", re.
 
 
 def titleify(str):
-    return str.title().replace("_", " ")
+    return str.title().replace("_", " ").replace("-", " ")
 
 
 if __name__ == "__main__":
