@@ -4,6 +4,8 @@ Musings on the Cloud, automation, and other things.
 
 Like this writing? Read more: [blog](https://glasnt.com/blog). 
 
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+
 <!-- index starts -->
 3 articles across 2 topics and counting...
 
@@ -17,5 +19,6 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 * [Making your own TIL repo](https://github.com/glasnt/puff/blob/latest/meta/til_repo.md) - 2024-01-22
 <!-- index ends -->
 
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
 
 Interested in hearing about a topic? [Ask!](https://github.com/glasnt/puff/issues/new)
