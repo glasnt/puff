@@ -9,6 +9,7 @@ who in turn cribbed from https://github.com/simonw/til
 """
 
 root = pathlib.Path(__file__).parent.resolve()
+DATABASE = root / "til.db"
 
 
 def created_changed_times(repo_path, ref="latest"):
@@ -35,8 +36,16 @@ def created_changed_times(repo_path, ref="latest"):
 
 def build_database(repo_path):
     all_times = created_changed_times(repo_path)
+    
+    # delete existing database, if exists. 
+    if DATABASE.exists:
+        pathlib.Path.unlink(DATABASE)
+
+    # create new database 
     db = sqlite_utils.Database(repo_path / "til.db")
     table = db.table("til", pk="path")
+
+    # rebuild database contents
     for filepath in root.glob("*/*.md"):
         fp = filepath.open()
         title = fp.readline().lstrip("#").strip()
@@ -52,6 +61,8 @@ def build_database(repo_path):
         }
         record.update(all_times[path])
         table.insert(record)
+    
+    # ??
     if "til_fts" not in db.table_names():
         table.enable_fts(["title", "body"])
 
