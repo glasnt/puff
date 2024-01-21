@@ -4,7 +4,7 @@ Musings on the Cloud, automation, and other things.
 
 Like this writing? Read more: [blog](https://glasnt.com/blog). 
 
-~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~
 
 <!-- index starts -->
 5 articles across 4 topics and counting...
@@ -27,6 +27,6 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 * [Official Docker Images](https://github.com/glasnt/puff/blob/latest/docker/official_images.md) - 2024-01-22
 <!-- index ends -->
 
-~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~
 
 Interested in hearing about a topic? [Ask!](https://github.com/glasnt/puff/issues/new)
