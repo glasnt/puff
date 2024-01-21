@@ -5,11 +5,12 @@ Musings on the Cloud, automation, and other things.
 Like this writing? Read more: [blog](https://glasnt.com/blog). 
 
 <!-- index starts -->
-1 articles across 1 topics and counting...
+2 articles across 1 topics and counting...
 
 ## Cloud Build
 
 * [Check scripts pass in Cloud Build with 'set -e'](https://github.com/glasnt/puff/blob/latest/cloud_build/check_scripts_pass.md) - 2024-01-19
+* [Common and Useful to remember Cloud Builders ('Steps')](https://github.com/glasnt/puff/blob/latest/cloud_build/common_step_builders.md) - 2024-01-22
 <!-- index ends -->
 
 
