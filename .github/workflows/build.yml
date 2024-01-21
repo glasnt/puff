@@ -1,5 +1,8 @@
 # Based on https://github.com/williln/til, 
 # who in turn cribbed from https://github.com/simonw/til
+#
+# Copying this config? You'll also need to change Action permissions
+# Repo Settings > Actions > Workflow permissions > Read and write permissions. 
 
 name: Build README
 
