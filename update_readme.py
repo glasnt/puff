@@ -7,11 +7,12 @@ root = pathlib.Path(__file__).parent.resolve()
 
 index_re = re.compile(r"<!\-\- index starts \-\->.*<!\-\- index ends \-\->", re.DOTALL)
 
-def titleify(str): 
+
+def titleify(str):
     return str.title().replace("_", " ")
 
-if __name__ == "__main__":
 
+if __name__ == "__main__":
     # load topics
     db = sqlite_utils.Database(root / "til.db")
     by_topic = {}
@@ -37,7 +38,6 @@ if __name__ == "__main__":
         index.pop()
     index.append("<!-- index ends -->")
 
-    
     if "--rewrite" in sys.argv:
         # write results
         readme = root / "README.md"
