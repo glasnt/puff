@@ -7,7 +7,7 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
 
 <!-- index starts -->
-3 articles across 2 topics and counting...
+4 articles across 3 topics and counting...
 
 ## Cloud Build
 
@@ -17,6 +17,10 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ## Meta
 
 * [Making your own TIL repo](https://github.com/glasnt/puff/blob/latest/meta/til_repo.md) - 2024-01-22
+
+## Github
+
+* [Editing GitHub repos via the website/browser](https://github.com/glasnt/puff/blob/latest/github/browser_based_editing.md) - 2024-01-22
 <!-- index ends -->
 
 ~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
