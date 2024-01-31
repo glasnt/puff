@@ -7,7 +7,7 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~
 
 <!-- index starts -->
-6 articles across 5 topics and counting...
+7 articles across 6 topics and counting...
 
 ## Cloud Build
 
@@ -29,6 +29,10 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ## Markdown
 
 * [Automatic links in Markdown](https://github.com/glasnt/puff/blob/latest/markdown/automatic_links.md) - 2024-01-22
+
+## Terraform
+
+* [Use resource attributes to prevent complex strings](https://github.com/glasnt/puff/blob/latest/terraform/resource_attributes.md) - 2024-01-31
 <!-- index ends -->
 
 ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~
