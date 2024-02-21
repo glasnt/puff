@@ -7,7 +7,7 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~
 
 <!-- index starts -->
-7 articles across 6 topics and counting...
+8 articles across 6 topics and counting...
 
 ## Cloud Build
 
@@ -21,6 +21,7 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ## Github
 
 * [Editing GitHub repos via the website/browser](https://github.com/glasnt/puff/blob/latest/github/browser_based_editing.md) - 2024-01-22
+* [Getting reviews requested for me](https://github.com/glasnt/puff/blob/latest/github/review_requested_for_me.md) - 2024-02-21
 
 ## Docker
 
