@@ -7,7 +7,7 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~
 
 <!-- index starts -->
-8 articles across 6 topics and counting...
+9 articles across 7 topics and counting...
 
 ## Cloud Build
 
@@ -34,6 +34,10 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ## Terraform
 
 * [Use resource attributes to prevent complex strings](https://github.com/glasnt/puff/blob/latest/terraform/resource_attributes.md) - 2024-01-31
+
+## Python
+
+* [Setting a custom pycache prefix.](https://github.com/glasnt/puff/blob/latest/python/pycache_prefix.md) - 2024-03-21
 <!-- index ends -->
 
 ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~
