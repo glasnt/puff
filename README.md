@@ -7,7 +7,7 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~
 
 <!-- index starts -->
-9 articles across 7 topics and counting...
+10 articles across 8 topics and counting...
 
 ## Cloud Build
 
@@ -38,6 +38,10 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ## Python
 
 * [Setting a custom pycache prefix.](https://github.com/glasnt/puff/blob/latest/python/pycache_prefix.md) - 2024-03-21
+
+## Html
+
+* [Emoji as a Favicon](https://github.com/glasnt/puff/blob/latest/html/emoji_favicon.md) - 2024-03-26
 <!-- index ends -->
 
 ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~
