@@ -7,7 +7,7 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~
 
 <!-- index starts -->
-10 articles across 8 topics and counting...
+11 articles across 9 topics and counting...
 
 ## Cloud Build
 
@@ -42,6 +42,10 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ## Html
 
 * [Emoji as a Favicon](https://github.com/glasnt/puff/blob/latest/html/emoji_favicon.md) - 2024-03-26
+
+## Google Workspace
+
+* [Google Workspace URL Tricks](https://github.com/glasnt/puff/blob/latest/google_workspace/url_tricks.md) - 2024-04-04
 <!-- index ends -->
 
 ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~
