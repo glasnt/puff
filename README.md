@@ -7,7 +7,7 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~
 
 <!-- index starts -->
-11 articles across 9 topics and counting...
+12 articles across 10 topics and counting...
 
 ## Cloud Build
 
@@ -46,6 +46,10 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ## Google Workspace
 
 * [Google Workspace URL Tricks](https://github.com/glasnt/puff/blob/latest/google_workspace/url_tricks.md) - 2024-04-04
+
+## Youtube
+
+* [Linking to YouTube Timestamps](https://github.com/glasnt/puff/blob/latest/youtube/linking-to-timestamps.md) - 2024-04-23
 <!-- index ends -->
 
 ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~
