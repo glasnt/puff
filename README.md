@@ -7,7 +7,7 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~
 
 <!-- index starts -->
-12 articles across 10 topics and counting...
+14 articles across 10 topics and counting...
 
 ## Cloud Build
 
@@ -22,6 +22,7 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 
 * [Editing GitHub repos via the website/browser](https://github.com/glasnt/puff/blob/latest/github/browser_based_editing.md) - 2024-01-22
 * [Getting reviews requested for me](https://github.com/glasnt/puff/blob/latest/github/review_requested_for_me.md) - 2024-02-21
+* [GitHub's `gh`: PRs by File](https://github.com/glasnt/puff/blob/latest/github/gh_prs_by_file.md) - 2025-03-17
 
 ## Docker
 
@@ -46,6 +47,7 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ## Google Workspace
 
 * [Google Workspace URL Tricks](https://github.com/glasnt/puff/blob/latest/google_workspace/url_tricks.md) - 2024-04-04
+* [Export Google Docs as Markdown](https://github.com/glasnt/puff/blob/latest/google_workspace/export_markdown.md) - 2026-01-14
 
 ## Youtube
 
