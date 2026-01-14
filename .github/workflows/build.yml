@@ -1,8 +1,8 @@
-# Based on https://github.com/williln/til, 
+# Based on https://github.com/williln/til,
 # who in turn cribbed from https://github.com/simonw/til
 #
 # Copying this config? You'll also need to change Action permissions
-# Repo Settings > Actions > Workflow permissions > Read and write permissions. 
+# Repo Settings > Actions > Workflow permissions > Read and write permissions.
 
 name: Build README
 
@@ -25,7 +25,7 @@ jobs:
       with:
         python-version: 3.12
     - name: Configure pip caching
-      uses: actions/cache@v1
+      uses: actions/cache@v5
       with:
         path: ~/.cache/pip
         key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
