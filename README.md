@@ -7,7 +7,7 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~
 
 <!-- index starts -->
-14 articles across 10 topics and counting...
+15 articles across 11 topics and counting...
 
 ## Cloud Build
 
@@ -52,6 +52,10 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ## Youtube
 
 * [Linking to YouTube Timestamps](https://github.com/glasnt/puff/blob/latest/youtube/linking-to-timestamps.md) - 2024-04-23
+
+## Macos
+
+* [MacOS Emoji Picker](https://github.com/glasnt/puff/blob/latest/macos/emoji-picker-fn.md) - 2026-04-17
 <!-- index ends -->
 
 ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~
