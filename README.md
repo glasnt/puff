@@ -7,7 +7,7 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~ ^ ~
 
 <!-- index starts -->
-15 articles across 11 topics and counting...
+16 articles across 11 topics and counting...
 
 ## Cloud Build
 
@@ -48,6 +48,7 @@ Like this writing? Read more: [blog](https://glasnt.com/blog).
 
 * [Google Workspace URL Tricks](https://github.com/glasnt/puff/blob/latest/google_workspace/url_tricks.md) - 2024-04-04
 * [Export Google Docs as Markdown](https://github.com/glasnt/puff/blob/latest/google_workspace/export_markdown.md) - 2026-01-14
+* [Paste from markdown](https://github.com/glasnt/puff/blob/latest/google_workspace/paste_from_markdown.md) - 2026-09-11
 
 ## Youtube
 
